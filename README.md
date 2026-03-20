@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hey, I'm Vish
 
-<!--
-**getv1xh/getv1xh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious developer exploring **Python, automation, and AI**.
 
-Here are some ideas to get you started:
+I like building things, breaking them, fixing them again, and turning random ideas into working systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ What I'm into
+
+* 🐍 Python development
+* 🤖 Automation & bots
+* 🧠 AI experiments
+* 🧪 Vibe coding & late-night builds
+
+---
+
+## 🚧 Currently
+
+* Building small tools & experiments
+* Learning by doing
+* Trying to make things a little smarter
+
+---
+
+## 💭 Philosophy
+
+> I don’t know everything.
+> I just keep building until things start working.
+
+---
+
+## 📫 Connect
+
+* 🌐 vishlabs.xyz 
+* ✉️ [hello@vishlabs.xyz](mailto:hello@vishlabs.xyz)
+
+---
+
+## ⚙️ Tech I use
+
+`Python` `APIs` `Automation` `AI` `Git`
+
+---
+
+## 🧪 Projects
+
+Still building.
+This space will fill up soon 👀
+
+---
+
+## ⚡ Fun fact
+
+I enjoy figuring things out more than just following tutorials.
