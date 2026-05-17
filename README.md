@@ -16,9 +16,9 @@ while alive:
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vish&style=for-the-badge&color=00d9ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/vish)
+[![Profile Views](https://komarev.com/ghpvc/?username=vish&style=for-the-badge&color=00d9ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/getv1sh)
 &nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/vish?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github)](https://github.com/vish)
+[![GitHub followers](https://img.shields.io/github/followers/vish?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github)](https://github.com/getv1xh)
 
 </div>
 
