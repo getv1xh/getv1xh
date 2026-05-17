@@ -28,7 +28,7 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=getv1xh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DFC9BA&icon_color=DFC9BA&text_color=ffffff&count_private=true" />
+<img align="right" width="38%" src="https://cdn.discordapp.com/attachments/1494234983978635334/1505459644783525978/ChatGPT_Image_May_17_2026_at_12_06_33_PM.png?ex=6a0ab40d&is=6a09628d&hm=4a3a56ac090f5bd44bc651344334f7d35c7199169ce9777d08671d7f4ea5e0d4" />
 
 
 ### `> whoami`
