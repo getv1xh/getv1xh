@@ -1,4 +1,4 @@
-````md id="x92mka"
+md id="x92mka"
 <div align="center">
 
 # Vish
@@ -102,4 +102,4 @@ I believe the best way to learn is by building real things consistently.
 ### ⚡ “Still learning. Still building.”
 
 </div>
-```
+
